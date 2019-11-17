@@ -1,3 +1,5 @@
+NOTE: This is currently not a working version. It was a project I had worked on but have not been able to update in a few months.
+
 # Large Scale Direct Monocular SLAM
 - Implementation of https://vision.in.tum.de/research/vslam/lsdslam
 
